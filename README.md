@@ -18,6 +18,10 @@
 	ExpTran.jpg：非线性点运算后的图片
 		三次幂运算
 	result.jpg：四张图片对比 
+# 3.1.4：集合运算 对图片实现 平移、旋转、镜像操作，以及复合运算
+使用的是lena.jpg作为初始图
+	img_H.jpg:水平镜像  img_V.jpg:垂直镜像  img_HV.jpg:对角镜像   img_pan.jpg:向左向上平移50px  img_rotate.jpg:顺时针旋转45度   对比图.jpg:各种效果对比
+	result.jpg：复合结果 - 水平镜像-顺时针旋转45度-向左向上平移50px-垂直镜像
 # 8.1.2：自适应阈值
 	test.jpg：原图
 	OTSU.jpg：大律法
