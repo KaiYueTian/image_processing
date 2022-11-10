@@ -23,6 +23,8 @@
 	img_H.jpg:水平镜像  img_V.jpg:垂直镜像  img_HV.jpg:对角镜像   img_pan.jpg:向左向上平移50px  img_rotate.jpg:顺时针旋转45度   
 	对比图.jpg:各种效果对比
 	result.jpg：复合结果 - 水平镜像-顺时针旋转45度-向左向上平移50px-垂直镜像
+# 分水岭算法
+	使用lena.jpg作为初始图，进行分割 结果为result.jpg
 # 8.1.2：自适应阈值
 	test.jpg：原图
 	OTSU.jpg：大律法
