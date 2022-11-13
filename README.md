@@ -23,6 +23,9 @@
 	img_H.jpg:水平镜像  img_V.jpg:垂直镜像  img_HV.jpg:对角镜像   img_pan.jpg:向左向上平移50px  img_rotate.jpg:顺时针旋转45度   
 	对比图.jpg:各种效果对比
 	result.jpg：复合结果 - 水平镜像-顺时针旋转45度-向左向上平移50px-垂直镜像
+# 3.2.2：傅里叶变换
+	lena.jpg：初始图像
+	result.jpg：变换后的结果图像组合 1_1：初始图像（img）  1_2：使用本图频谱与相位谱重建（same）  1_3：使用频谱重建图像（p=0）  1_4:使用相位谱重建图像（f=1）
 # 分水岭算法
 	使用lena.jpg作为初始图，进行分割 结果为result.jpg
 # 8.1.2：自适应阈值
