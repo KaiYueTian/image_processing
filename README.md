@@ -29,9 +29,10 @@
 # 7.3.1：预测编码 DPCM 编码 8 4  2 1 bit
 	x.jpg：各比特输出结果
 	lena：jpg：原始图像
-# 分水岭算法
-	使用lena.jpg作为初始图，进行分割 结果为result.jpg
 # 8.1.2：自适应阈值
 	test.jpg：原图
 	OTSU.jpg：大律法
 	iterate.jpg：迭代法
+# 分水岭算法
+	使用lena.jpg作为初始图，进行分割 结果为result.jpg
+
